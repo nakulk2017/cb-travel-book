@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cross-Border & Travel Payments",
+    "section": "",
+    "text": "0.1 About This Book\nThis book documents our team’s understanding of cross-border payments and travel payments, with a focus on APAC and MENA markets.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Travel And Cross-Border Payments</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "Cross-Border & Travel Payments",
+    "section": "0.2 How to Use This Book",
+    "text": "0.2 How to Use This Book\nUse the left sidebar to navigate chapters. Each chapter covers a specific topic area.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Travel And Cross-Border Payments</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/cb-overview.html",
+    "href": "chapters/cb-overview.html",
+    "title": "2  Cross Border Payments Primer",
+    "section": "",
+    "text": "Every transaction will have below 4 currencies -\nIssuing Currency - Currency in which the customer pays to their credit card issuer or the currency in which their credit card is issued. For example, if a customer has a credit card issued in Singapore, the issuing currency will be SGD.\nPresentment / Processing Currency - Currency in which the customer sees the amount on the website. In majority of the cases, this is the currency in which the transaction is processed. If the customer visits a SG website and sees the product in SGD, the presentment currency is SGD.\nAcquiring Currency - Primary currency of the country in which the merchant’s acquirer is based. For example, if the merchant uses HSBC in Hong Kong, the acquiring currency will be HKD.\nSettlement Currency - Currency in which the merchant gets the settlement. For example, in case the HK acquirer settles the amount in USD, the settlement currency will be USD.",
+    "crumbs": [
+      "Cross-Border Payments",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cross Border Payments Primer</span>"
+    ]
+  }
+]

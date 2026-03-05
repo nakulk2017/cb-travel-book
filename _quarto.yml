@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Cross-Border & Travel Payments"
+  author: "Nakul Kothari"
+  date: "2026"
+  chapters:
+    - index.qmd
+    - part: "Cross-Border Payments"
+      chapters:
+        - chapters/cb-overview.qmd
+        - chapters/cb-merchant-setup.qmd
+        - chapters/cb-how-to-reduce-cb-charges.qmd
+    - part: "Travel Payments"
+      chapters:
+        - chapters/travel-overview.qmd
+        - chapters/travel-airlines.qmd
+        - chapters/travel-hotel.qmd
+        - chapters/travel-ota.qmd
+    - part: "APAC & MENA"
+      chapters:
+        - chapters/apac-landscape.qmd
+        - chapters/mena-landscape.qmd
+
+format:
+  html:
+    theme: cosmo

@@ -1,0 +1,15 @@
+---
+title: "Cross Border Payments Primer"
+description: "Overview of cross-border payments, key players, and transaction flow."
+---
+
+
+Every transaction will have below 4 currencies -
+
+**Issuing Currency** - Currency in which the customer pays to their credit card issuer or the currency in which their credit card is issued. For example, if a customer has a credit card issued in Singapore, the issuing currency will be SGD.
+
+**Presentment / Processing Currency** - Currency in which the customer sees the amount on the website. In majority of the cases, this is the currency in which the transaction is processed. If the customer visits a SG website and sees the product in SGD, the presentment currency is SGD.
+
+**Acquiring Currency** - Primary currency of the country in which the merchant's acquirer is based. For example, if the merchant uses HSBC in Hong Kong, the acquiring currency will be HKD.
+
+**Settlement Currency** - Currency in which the merchant gets the settlement. For example, in case the HK acquirer settles the amount in USD, the settlement currency will be USD.

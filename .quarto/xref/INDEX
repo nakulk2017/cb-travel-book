@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "8a071160"
+  },
+  "chapters/cb-overview.qmd": {
+    "cb-overview.html": "f09be2e9"
+  },
+  "chapters/cb-merchant-setup.qmd": {
+    "cb-merchant-setup.html": "da9a3557"
+  },
+  "chapters/cb-how-to-reduce-cb-charges.qmd": {
+    "cb-how-to-reduce-cb-charges.html": "1ac44cc3"
+  },
+  "chapters/travel-overview.qmd": {
+    "travel-overview.html": "a04f3f06"
+  },
+  "chapters/travel-airlines.qmd": {
+    "travel-airlines.html": "3caa2def"
+  },
+  "chapters/travel-hotel.qmd": {
+    "travel-hotel.html": "66807647"
+  },
+  "chapters/travel-ota.qmd": {
+    "travel-ota.html": "1693ad38"
+  },
+  "chapters/apac-landscape.qmd": {
+    "apac-landscape.html": "f497a5fe"
+  },
+  "chapters/mena-landscape.qmd": {
+    "mena-landscape.html": "de0b6ea1"
+  }
+}

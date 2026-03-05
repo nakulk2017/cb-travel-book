@@ -1,0 +1,13 @@
+---
+title: "Travel And Cross-Border Payments"
+---
+
+## About This Book
+
+This book documents our team's understanding of cross-border
+payments and travel payments, with a focus on APAC and MENA markets.
+
+## How to Use This Book
+
+Use the left sidebar to navigate chapters.
+Each chapter covers a specific topic area.
