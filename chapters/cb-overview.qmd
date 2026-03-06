@@ -13,3 +13,7 @@ Every transaction will have below 4 currencies -
 **Acquiring Currency** - Primary currency of the country in which the merchant's acquirer is based. For example, if the merchant uses HSBC in Hong Kong, the acquiring currency will be HKD.
 
 **Settlement Currency** - Currency in which the merchant gets the settlement. For example, in case the HK acquirer settles the amount in USD, the settlement currency will be USD.
+
+I = P = A = S
+
+Where I is Issuing Currency, P is Presentment Currency, A is Acquiring Currency and S is Settlement Currency.
