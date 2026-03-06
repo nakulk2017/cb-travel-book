@@ -8,14 +8,9 @@ book:
   date: last-modified
   search: true
   sidebar:
-<<<<<<< HEAD
     style: "docked"
     background: light
   
-=======
-      style: "docked"
-      background: light
->>>>>>> 4716cc32cb37ff9b5e8989ad88f775089cc665a2
   chapters:
     - index.qmd
     - part: "Cross-Border Payments"
