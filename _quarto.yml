@@ -5,7 +5,8 @@ project:
 book:
   title: "Cross-Border & Travel Payments"
   author: "Nakul Kothari"
-  date: "2026"
+  date: last-modified
+  search: true
   chapters:
     - index.qmd
     - part: "Cross-Border Payments"
@@ -27,3 +28,9 @@ book:
 format:
   html:
     theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    sidebar:
+      style: "docked"
+      background: light
